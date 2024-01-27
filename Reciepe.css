@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: lightgoldenrodyellow;
+}
+
+.image{
+    display: block;
+    position: absolute;
+    border-radius: 15px;
+    border: 0.5px white solid;
+    top: 50px;
+    height: 1700px;
+    width: 800px;
+    left: 440px;
+    display: inline-block;
+    background: white;
+    
+
+}
+
+.image img{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    bottom: 40px;
+    border-radius: 10px;
+    width: 92%;
+}
+.image h1{
+    color: black;
+    font-size: 30px;
+    margin-top: 390px;
+    margin-left: 40px;
+    background: white;
+    font-family: 'Young Serif', serif;
+}
+
+.image p{
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 40px;
+    background: white;
+    font-family: 'Young Serif', serif;
+
+}
+
+   
+
+.box1{
+    display: block;
+    position: absolute;
+    
+    height: 170px;
+    width: 735px;
+    top: 570px;
+    left: 475px;
+    background-color: lightpink;
+    border-radius: 5px;
+
+}
+
+.box1 h3{
+    color: purple;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 40px;
+    background: lightpink;
+    font-family: 'Young Serif', serif;
+    
+}
+
+.box1 li{
+    color: black;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 50px;
+    background: lightpink;
+    font-family: 'Young Serif', serif;
+
+}
+.box1 li b{
+    background: lightpink;
+}
+
+.box2{
+    display: block;
+    position: absolute;
+    background-color: white;
+   
+    top: 740px;
+    left: 480px;
+
+}
+
+.box2 h3{
+    display: block;
+    color: brown;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+    background: white;
+    font-family: 'Young Serif', serif;
+}
+
+.box2 li{
+    color: black;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 50px;
+    background: white;
+    font-family: 'Young Serif', serif;
+}
+
+.box3{
+    display: block;
+    position: absolute;
+    background-color: white;
+    text-align: justify;
+   
+    top: 1000px;
+    left: 480px;
+
+
+}
+
+.box3 h3{
+    display: block;
+    color: brown;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+    background: white;
+    font-family: 'Young Serif', serif;
+
+}
+.box3 li{
+    text-align: justify;
+    color: black;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background: white;
+    font-family: 'Young Serif', serif;
+
+}
+
+.box3 li b{
+    background: white;
+}
+
+.box4{
+    display: block;
+    position: absolute;
+    background-color: white;
+    text-align: justify;
+   
+    top: 1350px;
+    left: 480px;
+
+
+}
+
+.box4 h3{
+    display: block;
+    color: brown;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+    background: white;
+    font-family: 'Young Serif', serif;
+
+}
+
+.box4 p{
+    color: black;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background: white;
+    font-family: 'Young Serif', serif;
+
+}
+
+.box4 ol{
+    color: black;
+    font-size: 2opx;
+    margin-top: 25px;
+    margin-left: 80px;
+    background: white;
+    margin-bottom: 10px;
+    text-align: left right;
+    font-family: 'Young Serif', serif;
+}
+
+.box4 ol b{
+    background: white;
+    color: brown;
+}
+
+.box5{
+    display: block;
+    position: absolute;
+    background-color: white;
+    text-align: justify;
+   
+    top: 1700px;
+    left: 500px;
+
+}
+.box5 p{
+    text-align: center;
+    background: white;
+    color: black;
+    font-family: 'Young Serif', serif;
+    margin-left: 100px;
+
+}
+.box4 lnk{
+    background: white;
+}
